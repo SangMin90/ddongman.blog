@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ddongman.blog/ddongman.blog/sitemap-index.xml
+Host: https://ddongman.blog
