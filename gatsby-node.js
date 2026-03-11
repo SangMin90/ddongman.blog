@@ -89,7 +89,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
   if (node.internal.type === `MarkdownRemark`) {
     const slug = createFilePath({ node, getNode })
-    const newSlug = `${slug.replace(/^\/posts/, "")}`
+    const newSlug = `${slug.replace(/^\/posts\//, "")}`
 
     createNodeField({
       node,
