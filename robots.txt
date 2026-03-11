@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ddongman.blog/ddongman.blog/sitemap-index.xml
-Host: https://ddongman.blog
+Sitemap: https://sangmin90.github.io/ddongman.blog/sitemap-index.xml
+Host: https://sangmin90.github.io
