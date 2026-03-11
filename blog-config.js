@@ -2,7 +2,7 @@ module.exports = {
   title: "DDONGMAN BLOG",
   description: "ddongman dev blog",
   author: "DDONGMAN",
-  siteUrl: "https://ddongman.blog",
+  siteUrl: "https://sangmin90.github.io/ddongman.blog/",
   links: {
     github: "https://github.com/SangMin90",
     linkedIn:
