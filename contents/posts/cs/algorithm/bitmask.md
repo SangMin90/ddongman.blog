@@ -243,3 +243,9 @@ _순환 시프트_ 연산은 Carry Flag(이하 캐리 플래그) 포함 여부�
 동적 계획법에서 부분 문제의 결과값을 저장할 때, 해당 문제가 어떠한 상태에 있었는지 표현하기 위해 사용된다.  
 예를 들어, N개의 도시를 최소 거리로 모두 순회한다고 가정하면, 1, 2, 3번 도시를 방문한 상태, $2^{1} + 2^{2} + 2^{3} = 14$ 에서 최소 거리를 DP[14]에 저장하는 방식이다.  
 방문 여부를 저장하기 위해 `Map`과 같은 자료구조를 사용하는 것보다 `int` 하나만을 기준으로 상태를 표시하고, 인덱스 접근을 통해 속도도 더 빠르기 때문에 사용된다.
+
+## 참고 자료
+
+- _Mask (computing)_
+  , https://en.wikipedia.org/wiki/Mask_(computing)
+- _Bitwise operation_, https://en.wikipedia.org/wiki/Bitwise_operation
