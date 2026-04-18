@@ -1,9 +1,7 @@
 {
   "compilerOptions": {
-    "ignoreDeprecations": "6.0",
-    "baseUrl": "./src",
     "paths": {
-      "*": ["types/*", "*"]
+      "*": ["./src/types/*", "./src/*"]
     }
   }
 }
